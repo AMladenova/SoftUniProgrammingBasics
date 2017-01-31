@@ -52,5 +52,4 @@ public class SmallShop {
 		}
 		System.out.println(price*quantity);
 	}
-
 }
